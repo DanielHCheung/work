@@ -3,7 +3,7 @@ title: "2025 Fall at Stony Brook University"
 collection: coursework
 type: "graduate course"
 permalink: /coursework/2025-fall-stonybrook
-venue: "University 1, Department"
+venue: "Stony Brook University, Data Science"
 date: 2025-08-25
 location: "Stony Brook, NY"
 ---
