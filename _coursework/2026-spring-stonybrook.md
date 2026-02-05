@@ -14,11 +14,19 @@ location: "Stony Brook, NY"
 AMS 580, Statistical Learning
 ======
 
+Statistical Learning with implementation of R/Python.
+
 AMS 597, Statistical Computing
 ======
 
+Statistical Computing with implementation of R.
+
 CSE 583, Computer Science: Programming Abstruct
 ======
+
+Programing Abstruct with Python/Ocaml.
+
+A very important feature of Python, which may leed to severe bug. I wrote this on my blog [Some Python Phrase you should never write](https://danieldata.com/posts/shouldnot/). This also mentioned during the second lecture of CSE583, Spring 2026.
 
 <!-- CSE 582, Data Structure and Algorithm
 ====== -->
